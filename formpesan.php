@@ -18,7 +18,7 @@
 </tr>
 
 <tr>
-    <td>Nomor Identitas</td>
+    <td>Nomor Identitas Penumpang</td>
     <td>:</td>
     <td><input type="text"  name="noidentitas"></td>
 </tr>
